@@ -1,0 +1,7 @@
+{
+  "datekey": " 今日は {{date}} ",
+  "title": "こんにちは React",
+  "content": {
+    "text": "いらっしゃいませ!"
+  }
+}

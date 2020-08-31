@@ -1,0 +1,7 @@
+{
+  "datekey": " Hoje é {{date}} ",
+  "title": "Olá React",
+  "content": {
+    "text": "Bem vindo ao nosso canto."
+  }
+}
